@@ -1,3 +1,3 @@
-# Hello World Py
+# Hello World (Python)
 
 Test python package
