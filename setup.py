@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="hello-world-nearata",
-    version="0.0.4",
+    version="0.0.5",
     author="Nearata",
     author_email="williamdicicco@protonmail.com",
     description="Hello World!",
